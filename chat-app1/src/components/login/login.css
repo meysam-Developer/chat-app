@@ -1,0 +1,47 @@
+body{
+    background-color: #151515;
+}
+.container{
+ 
+ margin: 100px auto;
+ width: 500px;
+ height: 400px; border: 2px solid #fdc13c;border-radius: 10px;
+}
+.card{
+   
+    display:flex;
+}
+h3{
+    margin: 20px auto;
+    color: #fdc13c;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.big-icon{
+    width: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 5px auto;
+}
+.btn-card{
+    display: flex;
+   
+    justify-content: center;
+    align-items: center;
+    margin: 5px auto;
+    background-color: #1cb561;
+    border-radius: 5px;
+    width: 400px;
+    height: 50px;
+}
+.btn-card span{
+    color: aliceblue;
+    cursor: pointer;
+}
+.btn-card img{
+    width: 35px;
+    margin-right: 3p;
+}

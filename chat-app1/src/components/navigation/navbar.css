@@ -1,0 +1,22 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding:5px 20px;
+    border-bottom: 1px solid #fdc13c;
+    height: 60px;
+}
+.navbar span{
+    color: #fdc13c;
+    font-size: 20px;
+    font-weight: bold;
+}
+.navbar button{
+    background-color: #1cb561;
+    padding: 8px 13px;
+    border: none;
+    font-weight: bold;
+    font-size: 15px;
+    border-radius: 3px;
+    color: aliceblue;
+}
